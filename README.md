@@ -8,7 +8,11 @@
 
 ## Project Objective
 
-- The purpose of this project is to get hands-on experience with A/B testing and transfer knowledge into practice. The notebook simply reflects testing part after experiement is compeleted including sanity checks, result analysis, sign tests, and etc.
+- The purpose of this project is to get hands-on experience with A/B testing and transfer knowledge into practice. 
+
+### Project Objective
+
+- The notebook simply reflects testing part including sanity checks, result analysis, sign tests, and etc.
 
 ### Data Source
 
