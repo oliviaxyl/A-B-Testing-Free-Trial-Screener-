@@ -7,43 +7,12 @@
 #### -- Project Status: [Completed]
 
 ## Project Objective
-The purpose of this project is to 
 
-### Methods Used
-
-* A/B Testing
-
-
-### Technologies
-* Jupyter, Python 3
-
-## Project Description
+The purpose of this project is to get familar with A/B testing workflows and trasfer knowledge into practice.
 
 ### Data Source
 
 [Udacity: A/B Testing](https://docs.google.com/document/u/1/d/1aCquhIqsUApgsxQ8-SQBAigFDcfWVVohLEXcV6jWbdI/pub?embedded=True)
-
-### Metric Choice
-
--   Invariant metrics : number of cookies, number of clicks, and click-through probability (CTP).
--   Evaluation metrics : gross conversion, retention, and net conversion 
-
-### Sizing 
-
-### Sanity Checks
-
-### Result Analysis
-
-- Gross Conversion
-- Net Conversion
-
-### Sign Tests
-
-### Follow-Up Experiment
-
-- Retention 
-
-## Further Work
 
 ## Reference
 
