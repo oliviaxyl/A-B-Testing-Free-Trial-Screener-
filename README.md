@@ -24,4 +24,6 @@
 
 A/B Testing - Udacity Course Final Project https://classroom.udacity.com/courses/ud257
 
+A Summary of Udacity A/B Testing Course https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1
+
 A/B Testing (great source!)  https://rstudio-pubs-static.s3.amazonaws.com/201749_9fc280333a5c4f448687e1d99b9bdf76.html
