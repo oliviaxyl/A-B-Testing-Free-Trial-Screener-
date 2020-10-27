@@ -8,7 +8,7 @@
 
 ## Project Objective
 
-The purpose of this project is to get familar with A/B testing workflows and transfer knowledge into practice.
+The purpose of this project is to get familar with A/B testing workflows and put knowledge into practice.
 
 ### Data Source
 
