@@ -12,7 +12,7 @@
 
 ### Project Objective
 
-- The notebook simply reflects testing part including sanity checks, result analysis, sign tests, and etc.
+- The notebook simply reflects analysis part including sanity checks, result analysis, sign tests, and etc.
 
 ### Data Source
 
