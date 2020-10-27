@@ -16,7 +16,7 @@
 
 ### Data Source
 
-This project combines actual data [Udacity: A/B Testing](https://docs.google.com/document/u/1/d/1aCquhIqsUApgsxQ8-SQBAigFDcfWVVohLEXcV6jWbdI/pub?embedded=True) with simulated noise.
+This project combines actual data [Udacity: A/B Testing](https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0) with simulated noise.
 
 ## Reference
 
