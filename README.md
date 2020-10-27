@@ -41,47 +41,17 @@ The purpose of this project is to
 
 ### Sanity Checks
 
-- Cookies: p̂ = 0.5001759250544788 ∈ (0.4988207611357565, 0.5011792388642435) ✓
-
-- Clicks: p̂ = 0.5022473692559886 ∈ (0.4958855839921207, 0.5041144160078793) ✓
-
-- CTP: p̂ = 0.0006806446729920174 ∈ (-0.0012952158606468556, 0.0012952158606468556) ✓
-
 ### Result Analysis
 
 - Gross Conversion:
 
-0 ∉ (0.015082871873568143, 0.032157223376795344)
-
-(-0.01, 0, 0.01) ⊄ (0.015082871873568143, 0.032157223376795344)
-
-Statistical significance ✓   Practical significance  ✓
-
 - Net Conversion:
-
-0 ∈ (-0.005413006265008506, 0.008058749355919152)
-
-(-0.01, 0.01) ⊃ (-0.005413006265008506, 0.008058749355919152)
-
-Statistical significance ✘   Practical significance  ✘
-
 
 ### Sign Tests
 
-- The chance of observing 6 or more successes, or  17  or fewer successes, in 23 trials is: Two-tailed P value: 0.0347
-- The chance of observing 14 or more successes, or  9  or fewer successes, in 23 trials is: Two-tailed P value: 0.4049 
-
 ### Follow-Up Experiment
 
-- Retention (only evaluate on available data):
-
-0 ∉ (-0.08066989681212079, -0.034535521226287544)
-
-(-0.01, 0, 0.01) ⊄ (-0.08066989681212079, -0.034535521226287544)
-
-Statistical significance ✓   Practical significance  ✓
-
-The chance of observing 9 or more successes, or  14  or fewer successes, in 23 trials is: Two-tailed P value: 0.4049
+- Retention 
 
 ## Further Work
 
