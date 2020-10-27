@@ -12,7 +12,7 @@
 
 ## Project Description
 
-- The notebook only reflects testing part after experiement is compeleted including sanity checks, result analysis, sign tests.
+- The notebook simply reflects testing part after experiement is compeleted including sanity checks, result analysis, sign tests.
 
 ### Data Source
 
