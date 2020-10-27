@@ -25,17 +25,8 @@ The purpose of this project is to
 
 ### Metric Choice
 
--   Invariant metrics (expected to be unchanged in the control and experimental groups):
-
-1. Number of cookies 
-2. Number of clicks 
-3. Click-through probability (CTP).
-
--   Evaluation metrics (expected to be different in the control and experimental groups):
-
-1. Gross conversion 
-2. Retention 
-3. Net conversion 
+-   Invariant metrics : number of cookies, number of clicks, and click-through probability (CTP).
+-   Evaluation metrics : gross conversion, retention, and net conversion 
 
 ### Sizing 
 
@@ -43,9 +34,8 @@ The purpose of this project is to
 
 ### Result Analysis
 
-- Gross Conversion:
-
-- Net Conversion:
+- Gross Conversion
+- Net Conversion
 
 ### Sign Tests
 
@@ -54,7 +44,6 @@ The purpose of this project is to
 - Retention 
 
 ## Further Work
-
 
 ## Reference
 
