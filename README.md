@@ -7,8 +7,6 @@
 
 ## Reference
 
-https://olgabelitskaya.github.io/P7_Design_an_A_B_Test_Overview.html
+A/B Testing - Udacity Course Final Project https://classroom.udacity.com/courses/ud257
 
-https://nancyyanyu.github.io/posts/8fdfc10f/
-
-https://rstudio-pubs-static.s3.amazonaws.com/201749_9fc280333a5c4f448687e1d99b9bdf76.html
+A/B Testing (great source!) https://rstudio-pubs-static.s3.amazonaws.com/201749_9fc280333a5c4f448687e1d99b9bdf76.html
