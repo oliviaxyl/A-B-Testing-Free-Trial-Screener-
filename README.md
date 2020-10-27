@@ -8,7 +8,7 @@
 
 ## Project Objective
 
-- The purpose of this project is to get hands on A/B testing and transfer knowledge into practice. 
+- The purpose of this project is to get hand-on experience with A/B testing and transfer knowledge into practice. 
 
 ## Project Description
 
