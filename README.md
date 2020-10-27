@@ -8,19 +8,17 @@
 
 ## Project Objective
 
-- The purpose of this project is to get hands-on experience with A/B testing and transfer knowledge into practice. 
-
-## Project Description
-
-- The notebook simply reflects testing part after experiement is compeleted including sanity checks, result analysis, sign tests, and etc.
+- The purpose of this project is to get hands-on experience with A/B testing and transfer knowledge into practice. The notebook simply reflects testing part after experiement is compeleted including sanity checks, result analysis, sign tests, and etc.
 
 ### Data Source
 
 - This project combines actual data [Udacity: A/B Testing](https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0) with simulated noise for independent analysis purpose.
 
+## Technologies
+
+* Jupyter, Python 3
+
 ## Reference
-
-
 
 A/B Testing - Udacity Course Final Project https://classroom.udacity.com/courses/ud257
 
