@@ -65,6 +65,14 @@ Net Conversion:
 
 Statistical significance ✘   Practical significance  ✘
 
+
+### Sign Tests
+
+- The chance of observing 6 or more successes, or  17  or fewer successes, in 23 trials is: Two-tailed P value: 0.0347
+- The chance of observing 14 or more successes, or  9  or fewer successes, in 23 trials is: Two-tailed P value: 0.4049 
+
+### Follow-Up Experiment
+
 Retention (only evaluate on available data):
 
 0 ∉ (-0.08066989681212079, -0.034535521226287544)
@@ -72,10 +80,6 @@ Retention (only evaluate on available data):
 (-0.01, 0, 0.01) ⊄ (-0.08066989681212079, -0.034535521226287544)
 
 Statistical significance ✓   Practical significance  ✓
-
-### Sign Tests
-
-### Follow-Up Experiment¶
 
 
 ## Further Work
