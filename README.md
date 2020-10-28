@@ -24,6 +24,10 @@
 
 ## Reference
 
+Sample Size Calculator  https://www.evanmiller.org/ab-testing/sample-size.html
+
+QuickCalcs: https://www.graphpad.com/quickcalcs/binomial1
+
 A/B Testing - Udacity Course Final Project https://classroom.udacity.com/courses/ud257
 
 A Summary of Udacity A/B Testing Course https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1
