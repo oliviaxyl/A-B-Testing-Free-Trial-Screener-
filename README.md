@@ -12,7 +12,7 @@
 
 ### Data Source
 
-- This project combines actual data from [Udacity: A/B Testing](https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0) with simulated noise for independent analysis purpose.
+- This project simulated experiment results by adding random noise to original data from [Udacity: A/B Testing](https://docs.google.com/spreadsheets/d/1Mu5u9GrybDdska-ljPXyBjTpdZIUev_6i7t4LRDfXM8/edit#gid=0).
 
 ### Technologies
 
