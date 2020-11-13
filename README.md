@@ -35,3 +35,8 @@ The intuition behind A/B Testing https://towardsdatascience.com/the-intuition-be
 How to split the traffic in an A/B Test https://towardsdatascience.com/smart-a-b-test-design-understanding-test-exposure-85ee44c897ba
 
 Selecting A/B test metrics — A primer https://towardsdatascience.com/a-guide-for-selecting-an-appropriate-metric-for-your-a-b-test-9068cccb7fb
+
+Which Metrics You Must Track While A/B Testing https://www.marketingoptimizer.com/blog/marketing-optimization/metrics-must-track-ab-testing/
+
+Exit Rate vs. Bounce Rate https://support.google.com/analytics/answer/2525491?hl=en
+
