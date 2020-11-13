@@ -29,3 +29,9 @@ A/B Testing - Udacity Course Final Project https://classroom.udacity.com/courses
 A Summary of Udacity A/B Testing Course https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1
 
 A/B Testing (great source!)  https://rstudio-pubs-static.s3.amazonaws.com/201749_9fc280333a5c4f448687e1d99b9bdf76.html
+
+The intuition behind A/B Testing https://towardsdatascience.com/the-intuition-behind-a-b-testing-a-primer-for-new-product-managers-6f21dee98533
+
+How to split the traffic in an A/B Test https://towardsdatascience.com/smart-a-b-test-design-understanding-test-exposure-85ee44c897ba
+
+Selecting A/B test metrics — A primer https://towardsdatascience.com/a-guide-for-selecting-an-appropriate-metric-for-your-a-b-test-9068cccb7fb
